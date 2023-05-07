@@ -8,7 +8,7 @@ O MaxBot é um bot desenvolvido em Python3 que tem como objetivo coletar dados _
 
 ### Arquitetura
 
-A arquitetura escolhida para desenvolver o projeto foi a Page Objects. Onde consiste em criar um objeto para cada página e realizar as funções dentro dessa página.
+A arquitetura escolhida para desenvolver o projeto foi a Page Objects, onde consiste em criar um objeto por página.
 
 ### Como Utilizar
 
