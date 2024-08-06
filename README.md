@@ -1,6 +1,6 @@
 # MaxBot
 
-![Avatar Max](./robot.png)
+![Avatar Max](./robot.jpg)
 
 > Status: Desenvolvimento
 
