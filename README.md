@@ -1,6 +1,6 @@
 # MaxBot
 
-![Avatar Max](https://media.discordapp.net/attachments/1097950471307669615/1100827652450943036/1f9d1d01-e02f-4fc3-8c18-e88b14cd7b5f.jpg?width=900&height=600)
+![Avatar Max](./robot.png)
 
 > Status: Desenvolvimento
 
